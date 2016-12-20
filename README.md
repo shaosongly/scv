@@ -63,7 +63,7 @@
 
 - 语言：c++ java javascript html/css python sql matlab 
 - 了解机器学习常用算法和图像特征：HOG LBP SVM LR AdaBoost GBDT CNN
-- 工具:vim git linux/osx
+- 工具：vim git linux/osx
 - 了解使用过大数据处理相关系统：drill parquet hbase mapreduce stream flink odps 
 
 #### 兴趣爱好
